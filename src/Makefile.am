@@ -1,0 +1,1 @@
+SUBDIRS=commons core
